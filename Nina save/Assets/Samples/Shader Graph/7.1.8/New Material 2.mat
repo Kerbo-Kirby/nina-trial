@@ -21,11 +21,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 5323b29876f6c5144acf378763d51fcc, type: 3}
+        m_Texture: {fileID: 2800000, guid: 93e33ca324d83db48b057f72e46e1c03, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 7fc002db1784cdd42879a629478f7fdf, type: 3}
+        m_Texture: {fileID: 2800000, guid: def514229fc2c35459d3e915a8f8b312, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -33,11 +33,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 5323b29876f6c5144acf378763d51fcc, type: 3}
+        m_Texture: {fileID: 2800000, guid: 93e33ca324d83db48b057f72e46e1c03, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 956cfcb4872fe8b4dbd9b828d873f842, type: 3}
+        m_Texture: {fileID: 2800000, guid: b394aecac0aeb4f47a4f0243a947637e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -71,7 +71,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.20392157, g: 0.21176471, b: 0.25490198, a: 1}
+    - _BaseColor: {r: 0.4056604, g: 0.4056604, b: 0.4056604, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
